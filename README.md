@@ -1,9 +1,7 @@
-# Docker Rocks
+# GoDocker
 
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
-
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/gabrielrmsantos/go-docker?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/gabrielrmsantos/go-docker?style=for-the-badge)
 
 > Um dockerfile que cria uma imagem comprimida de um script go que é compilado e depois executado para mostrar na tela a frase "Code.education Rocks!"
 
@@ -13,9 +11,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 * Você instalou a versão mais recente do docker
 
-## 🚀 Instalando "Docker Rocks"
+## 🚀 Instalando "GoDocker"
 
-Para instalar o "Docker Rocks", siga estas etapas:
+Para instalar o "GoDocker", siga estas etapas:
 
 GIT:
 ```
@@ -29,9 +27,9 @@ Docker HUB:
 docker pull gabrielrmsantos/codeeducation
 ```
 
-## ☕ Usando "Docker Rocks"
+## ☕ Usando "GoDocker"
 
-Para usar Docker Rocks, siga estas etapas:
+Para usar GoDocker, siga estas etapas:
 
 ```
 docker run gabrielrmsantos/codeeducation
@@ -41,4 +39,4 @@ docker run gabrielrmsantos/codeeducation
 
 Se você optou por baixar o repositório em sua máquina, o comando para executar o container é o mesmo do acima, mas você terá que trocar o nome da imagem, pelo nome que você escolheu no passo de instalação.
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Voltar ao topo](#godocker)<br>
